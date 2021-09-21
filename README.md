@@ -1,4 +1,4 @@
-# geological guided adversarial learning model for anomaly detection 
+#TThe geological guided adversarial learning model for geochemical anomaly detection 
 by Chunjie Zhang 
 
 
