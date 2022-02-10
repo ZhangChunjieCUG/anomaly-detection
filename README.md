@@ -5,14 +5,21 @@ by Chunjie Zhang
 Install Anaconda and Pycharm in computer
  
 # Requirments
- time
- numpy 
- tensorflow 
- logging
- importlib
- sys
- os
- sklearn
+time
+
+numpy 
+
+tensorflow 
+
+logging
+
+importlib
+
+sys
+
+os
+
+sklearn
 
 # Training and Test
 Download C_ALAD.zip from this Github platform : green button "clone or download". Then, unzip it on your computer. (C_ALAD.zip flies includes all needed python files.) 
