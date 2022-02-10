@@ -26,11 +26,11 @@ Download all python files from this Github platform
 
 Once finished this step, you can open the Pycharm in your computer and install all files in Pycharm.
 
-Firstly, Open arrhythmia.py, checked the code and set the data storage path 
+Firstly, open arrhythmia.py, checked the code and set the data storage path 
 
 code: path_ = 'D:/1_data science/1_code/ALAD_myDATA/data/arrhythmia.mat'
 
-The dimension of data is up to you, Pleasr don't forget to check the dimension in code to keep consistent with your data. 
+The dimension of data is up to you, pleasr don't forget to check the dimension in code to keep consistent with your data. 
 
 
 Secondly, run the file 'run.py'
