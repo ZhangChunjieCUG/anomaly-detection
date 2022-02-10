@@ -34,8 +34,16 @@ code: path_ = 'D:/1_data science/1_code/ALAD_myDATA/data/arrhythmia.mat'
 ![image](https://user-images.githubusercontent.com/87849739/153409331-60f8b7e1-ceb1-49bf-b8d5-e14050782d80.png)
 
 After running finished, the two folds "train-logs" and "results" will be automatic produced. 
+
 ![image](https://user-images.githubusercontent.com/87849739/153411041-e100a828-0251-48c0-947b-c7373e7771d2.png)
 
+Some paratermers needed to be adjusted, such as
+
+learning_rate
+
+batch_size
+
+latent_dim
 
  # Adversarially-Learned-Anomaly-Detection
 ALAD (Proceedings of IEEE ICDM 2018) official code
