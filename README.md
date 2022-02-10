@@ -4,7 +4,7 @@ by Chunjie Zhang
 # Installation
 Install Anaconda and Pycharm in computer
  
-# Requirments
+# Requirements
 time
 
 numpy 
@@ -21,7 +21,7 @@ os
 
 sklearn
 
-# Training and Test
+# Training and Testing
 Download C_ALAD.zip from this Github platform : green button "clone or download". Then, unzip it on your computer. (C_ALAD.zip flies includes all needed python files.) 
 
 Once finished this step, you can open the Pycharm in your computer and install all files in Pycharm.
