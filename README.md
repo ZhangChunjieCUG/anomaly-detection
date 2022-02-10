@@ -37,7 +37,7 @@ After running finished, the two folds "train-logs" and "results" will be automat
 
 ![image](https://user-images.githubusercontent.com/87849739/153411041-e100a828-0251-48c0-947b-c7373e7771d2.png)
 
-Some paratermers needed to be adjusted, such as
+Some paratermers need to be adjusted for achieving better performance of models, such as
 
 learning_rate
 
