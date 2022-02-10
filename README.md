@@ -22,23 +22,23 @@ os
 sklearn
 
 # Training and Testing
-Download C_ALAD.zip from this Github platform : green button "clone or download". Then, unzip it on your computer. (C_ALAD.zip flies includes all needed python files.) 
+Download all python files from this Github platform  
 
 Once finished this step, you can open the Pycharm in your computer and install all files in Pycharm.
 
-Open arrhythmia.py, checked the code and set the data storage path 
+Firstly, Open arrhythmia.py, checked the code and set the data storage path 
 
 code: path_ = 'D:/1_data science/1_code/ALAD_myDATA/data/arrhythmia.mat'
 
 The dimension of data is up to you, Pleasr don't forget to check the dimension in code to keep consistent with your data. 
 
 
-Run the file 'run.py'
+Secondly, run the file 'run.py'
 
 ![image](https://user-images.githubusercontent.com/87849739/153409331-60f8b7e1-ceb1-49bf-b8d5-e14050782d80.png)
 
 
-After running finished, the two folds "train-logs" and "results" will be automatic produced. 
+Thridly, after running finished, the two folds "train-logs" and "results" will be automatic produced. 
 
 ![image](https://user-images.githubusercontent.com/87849739/153411041-e100a828-0251-48c0-947b-c7373e7771d2.png)
 
